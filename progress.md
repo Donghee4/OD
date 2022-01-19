@@ -9,3 +9,4 @@ cuDNN downloaded
 
 1-19
 chapter 2
+ch2 -1 line error
