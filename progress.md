@@ -7,6 +7,5 @@ cuDNN downloaded
 #you already have a newer version of the nvidia frameview sdk installed   --새 버전때문에 CUDA를 설치 못함
 --> setting 에서 nvidia frameview 언인스톨 후 다시 쿠다 인스톨러를 실행
 
-1-19
-chapter 2
-ch2 -1 line error
+1-21
+ch3 done 2:12
