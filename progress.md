@@ -9,3 +9,6 @@ cuDNN downloaded
 
 1-21
 ch3 done 2:12
+
+1-22
+ch6 done, now doing ch7 evaluating 2:29
